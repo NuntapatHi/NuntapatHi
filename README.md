@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NuntapatHi
+- 👋 Hi, I’m Nuntapat Hirunnattee
 - 👀 I’m interested in iOS & Swift
 - 🌱 I’m currently learning iOS App Development Bootcamp
 
