@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nuntapat Hirunnattee
+- 👋 Hi, I’m Nuntapat Hirunnattee. You can call me Earth
 - 👀 I’m interested in iOS & Swift
 - 🌱 I’m currently learning iOS App Development Bootcamp
 
